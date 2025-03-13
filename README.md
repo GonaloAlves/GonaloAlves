@@ -1,6 +1,6 @@
 # 👋 Hi, My name is Gonçalo Alves
 
-## Data Scientist | Bioinformatics | Msc Thesis Student
+## Data Scientist | Bioinformatics | MSc Thesis Student
 
 - 📍 Based in Lisbon-Portugal
 - 📫 Contact me at alvesgoncas2014@gmail.com
