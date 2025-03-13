@@ -17,7 +17,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## 🎯 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=GonaloAlves&color=blue)
 
 ## 🔥 GitHub Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
@@ -50,4 +50,4 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
 ## 🌱 Contribution Graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GonaloAlves&theme=react-dark)
