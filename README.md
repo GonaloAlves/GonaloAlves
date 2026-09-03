@@ -4,7 +4,6 @@
 
 - 📍 Based in Lisbon-Portugal
 - 📫 Contact me at alvesgoncas2014@gmail.com
-- 🌱 Currently learning **Pyhton**
 - 💡 Open to collaboration on **BioInformatics**
 
 ## 🔥 Skills
