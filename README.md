@@ -7,7 +7,7 @@
 - 💡 Open to collaboration on **BioInformatics**
 
 ## 🔥 Skills
-🐍 Python | 🐧 Linux | 🧬 Bioinformatics | 🏗️ Data Science | 🔬 Machine Learning
+🐍 Python | 🐧 Linux | 🧬 Bioinformatics | 🏗️ Data Science 
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&row=2&column=3)
