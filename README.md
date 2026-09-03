@@ -28,9 +28,6 @@
 ### 😆 Random Programming Joke
 ![Jokes](https://readme-jokes.vercel.app/api)
 
-### 🎶 Now Playing on Spotify
-![Spotify](https://novatorem-username.vercel.app/api/spotify)
-
 ### 🖼️ Add an Animated GIF
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
