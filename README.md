@@ -21,20 +21,6 @@
 ## 🔥 GitHub Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
-## 🌍 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox)
-
-## 🏷️ Cool Badges
-### 🛠 Tech Stack Badges
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🌍 Social Media Badges
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=website&logoColor=white)](https://yourportfolio.com)
-
 ## 🎭 Fun Dynamic Content 
 ### 📜 Random Dev Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
